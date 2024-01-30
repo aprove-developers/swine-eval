@@ -1,5 +1,5 @@
 <head>
-    <title>SwInE</title>
+    <title>Satisfiability Modulo Exponential Integer Arithmetic</title>
     <style>
         p {text-align: justify;}
     </style>
@@ -9,7 +9,7 @@ This is the evaluation of the technique from our paper "Satisfiability Modulo Ex
 
 # Downloading SwInE
 
-[Here](https://github.com/ffrohn/swine/releases) you can find the latests releases of SwInE.
+[Here](https://github.com/ffrohn/swine/releases/tag/v0.1.0) you can find the release of SwInE that was used for our evaluation.
 
 # Input Format
 
@@ -23,7 +23,7 @@ Please execute `swine --help` for detailed information on using SwInE.
 
 # Benchmarks
 
-You can find the benchmarks from our evaluation [here](https://github.com/ffrohn/QF_EIA).
+You can find the benchmarks from our evaluation [here](https://github.com/ffrohn/QF_EIA/tree/v0.1.0).
 Moreover, you can download [our leading example](leading.smt2), and [Example 21](ex21.smt2) from our paper.
 
 # Detailed Results
