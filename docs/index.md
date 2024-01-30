@@ -29,3 +29,4 @@ Moreover, you can download [our leading example](leading.smt2), and [Example 21]
 # Detailed Results
 
 <a href="results.html">Here</a>, we provide a table with detailed results of our evaluation.
+For instances that could only be solved by a single configuration of SwInE, the corresponding result is highlighted in yellow.

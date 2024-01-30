@@ -1,12 +1,9 @@
 title: Satisfiability Modulo Exponential Integer Arithmetic
 email: florian.frohn@cs.rwth-aachen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  SMT solvers use sophisticated techniques for polynomial integer arithmetic. In
-  contrast, non-polynomial integer arithmetic has mostly been neglected so
-  far. However, in the context of program verification, polynomials are often
-  insufficient to capture the behavior of the analyzed system without resorting
-  to approximations. We present the first approach to solve SMT problems with
-  polynomial integer arithmetic and exponential functions, which is implemented
-  in our novel tool SwInE.
+  SMT solvers use sophisticated techniques for polynomial integer arithmetic,
+  but non-polynomial integer arithmetic has been neglected so far. We present
+  the first approach to solve SMT problems with polynomial integer arithmetic
+  and exponential functions, which is implemented in our novel tool SwInE.
 github_username:  ffrohn
 theme: jekyll-theme-cayman
