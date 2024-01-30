@@ -1,0 +1,6 @@
+title: SwInE
+email: florian.frohn@cs.rwth-aachen.de
+description: >- # this means to ignore newlines until "baseurl:"
+  Evaluation of "Satisfiability Modulo Exponential Integer Arithmetic"
+github_username:  ffrohn
+theme: jekyll-theme-cayman
