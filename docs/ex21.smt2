@@ -1,4 +1,3 @@
-; sat: x = 1, y = 0
 (set-logic ALL)
 (set-option :produce-models true)
 (declare-fun a () Int)
