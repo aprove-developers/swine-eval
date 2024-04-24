@@ -14,8 +14,7 @@ This is the evaluation of the technique from our paper <a href="https://arxiv.or
 # Input Format
 
 SwInE supports an extension of the [SMTLIB-format](https://smtlib.cs.uiowa.edu/) with an additional binary function symbol `exp`, whose arguments have to be of sort `Int`.
-By default, the semantics of `exp(s,t)` is s<sup>|t|</sup>.
-Alternatively, SwInE supports *partial semantics* where `exp(s,t)` is treated like an uninterpreted function if `t` is negative.
+The semantics of `exp(s,t)` is s<sup>|t|</sup>.
 
 # Using SwInE
 
