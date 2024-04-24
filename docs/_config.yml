@@ -7,3 +7,5 @@ description: >- # this means to ignore newlines until "baseurl:"
   and exponential functions, which is implemented in our novel tool SwInE.
 github_username:  ffrohn
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
